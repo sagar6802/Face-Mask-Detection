@@ -1,0 +1,2 @@
+type cmd in location box of folder and then type :-
+python detect_mask_video.py
